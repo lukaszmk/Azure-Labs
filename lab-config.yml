@@ -42,7 +42,6 @@
 labs:
   # === FEATURED/CORE LEARNING PATH (100-199) ===
 
-
   agent-builder-m365:
     title: "Build Progressive AI Assistants with Agent Builder in Microsoft 365"
     difficulty: "Beginner to Intermediate"
@@ -52,7 +51,6 @@ labs:
     journeys: [quick-start, business-user]
     events: [bootcamp, mcs-in-a-day]
 
-
   ask-me-anything-30-mins:
     title: "Create an 'Ask me anything' agent for your employees (30 min version)"
     difficulty: "Intermediate"
@@ -61,7 +59,6 @@ labs:
     order: 500
     journeys: [business-user]
     events: [bootcamp, mcs-in-a-day]
-
 
 
 # =====================================================
@@ -76,25 +73,6 @@ events:
     lab_order:
       [
         agent-builder-m365,
-        setup-for-success,
-        public-website-agent,
-        ask-me-anything-30-mins,
-        autonomous-account-news,
-        dataverse-mcp-connector,
-        autonomous-cua,
-        data-fabric-agent,
-      ]
-
-  azure-ai-workshop:
-    title: "☁️ MCS + Azure AI Workshop"
-    description: "Comprehensive hands-on workshop combining Microsoft Copilot Studio with Azure AI services for building intelligent, enterprise-grade AI solutions."
-    lab_order:
-      [
-        dataverse-mcp-connector,
-        contract-alerts-azure-ai,
-        mcs-byom,
-        data-fabric-agent,
-        guildhall-custom-mcp,
       ]
 
   mcs-in-a-day:
@@ -103,30 +81,6 @@ events:
     lab_order:
       [
         agent-builder-m365,
-        public-website-agent,
-        mbr-prep-sharepoint-agent,
-        ask-me-anything-30-mins,
-        autonomous-support-agent,
-      ]
-
-  agent-buildathon-1day:
-    title: "🏗️ Agent Build-A-Thon (1 day)"
-    description: "One-day intensive agent building workshop focused on creating web-based and SharePoint-integrated AI assistants."
-    lab_order: [agent-builder-web, mbr-prep-sharepoint-agent]
-
-  agent-buildathon-1month:
-    title: "🚀 Agent Build-A-Thon (1 month)"
-    description: "Comprehensive month-long agent development program covering declarative agents, autonomous AI, and enterprise deployment patterns."
-    lab_order:
-      [
-        agent-builder-web,
-        agent-builder-sharepoint,
-        public-website-agent,
-        mbr-prep-sharepoint-agent,
-        ask-me-anything,
-        autonomous-support-agent,
-        autonomous-account-news,
-        autonomous-cua,
       ]
 
 # =====================================================

@@ -52,12 +52,7 @@ labs:
     journeys: [quick-start, business-user]
     events: [bootcamp, mcs-in-a-day]
 
-  
 
-
- 
-
-  # === OPTIONAL LABS (500-599) ===
   ask-me-anything-30-mins:
     title: "Create an 'Ask me anything' agent for your employees (30 min version)"
     difficulty: "Intermediate"

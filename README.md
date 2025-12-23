@@ -1,6 +1,6 @@
 # 🤖 Microsoft Copilot Studio Labs 🧪
 
-> 💡 **Looking for an easier way to browse these labs?** Check out our interactive web portal for a better reading experience: [Microsoft Copilot Studio Labs Portal](https://microsoft.github.io/mcs-labs/) 🌐
+> 💡 **Looking for an easier way to browse these labs?** Check out our interactive web portal for a better reading experience: [Azure-Labs Portal](https://lukaszmk.github.io/Azure-Labs/) 🌐
 
 ---
 

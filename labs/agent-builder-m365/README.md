@@ -31,7 +31,7 @@ Master agent creation from basic web-grounded assistants to advanced SharePoint-
 
 ## 🤔 Why This Matters
 
-**For makers and citizen developers:** You don't need to be a programmer to create powerful AI assistants that can transform how your team works.
+**For makers and citizen developers:** TEST
 
 Think of building agents like teaching a new team member:
 

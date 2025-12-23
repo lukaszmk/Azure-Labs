@@ -1,8 +1,7 @@
-# Jekyll Configuration for MCS Labs
-title: "Microsoft Copilot Studio Labs"
-description: "Hands-on labs for building AI agents with Microsoft Copilot Studio"
-baseurl: "/mcs-labs"
-url: "https://pratapladhani.github.io"
+# Jekyll Configuration for Azure Labs
+title: "Microsoft Azure Labs"
+description: "Hands-on labs for building Diffrent Stuff on Azure"
+baseurl: "/azure-labs"
 
 # Build settings
 markdown: kramdown
